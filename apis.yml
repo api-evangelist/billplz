@@ -1,0 +1,32 @@
+aid: billplz
+name: Billplz
+description: "Payment platform"
+url: https://www.billplz.com/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Finance"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Finance
+  - Public APIs
+apis:
+  - name: Billplz
+    description: "Payment platform"
+    humanURL: https://www.billplz.com/api
+    baseURL: https://www.billplz.com/api
+    tags:
+      - Finance
+    properties:
+      - type: Documentation
+        url: https://www.billplz.com/api
+common:
+  - type: Website
+    url: https://www.billplz.com/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
