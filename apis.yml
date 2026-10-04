@@ -39,7 +39,6 @@ apis:
   - name: Billplz
     description: "Payment platform"
     humanURL: https://www.billplz.com/api
-    baseURL: https://www.billplz.com/api
     tags:
       - Finance
     properties:
